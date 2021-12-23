@@ -1,0 +1,1 @@
+GRANT ALL PRIVILEGES ON DATABASE lab_5 to vikklimenko;
