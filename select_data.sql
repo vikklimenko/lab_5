@@ -1,0 +1,1 @@
+select id, first_name, last_name, birth_date from tbl_1 where birth_date > '2003-01-01' and birth_date <'2008-01-01';
