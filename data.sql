@@ -1,0 +1,15 @@
+-- insert into tbl_1 (first_name, middle_name, last_name, email) values
+-- ('Иван', 'Иванович', 'Иванов', 'ivanov@mail.ru'),
+-- ('Петр', 'Петрович', 'Петров', 'petrov@mail.ru'),
+-- ('Иван', 'Петрович', 'Сидоров', 'sidorov@mail.ru');
+
+-- insert into tbl_1 (first_name, middle_name, last_name, email) values
+-- ('Анна', 'Александровна', 'Семёновна', 'ann123@mail.ru'),
+-- ('Алексей', 'Егорович', 'Соснов', 'alex@mail.ru'),
+-- ('Валерия', 'Владимировна', 'Савченко', 'vv_savchenko@mail.ru'),
+-- ('Андрей', 'Михайлович', 'Меркулов', 'merkulov@mail.ru'),
+-- ('Анастасия', 'Григорьевна', 'Шевцова', 'a_g_shevv@mail.ru'),
+-- ('Елена', 'Сергеевна', 'Сергеева', 'sergeeva@mail.ru'),
+-- ('Антон', 'Максимович', 'Дмитриев', 'dmitriev@mail.ru'),
+-- ('Вячеслав', 'Александрович', 'Макиевский', 'makievsky@mail.ru'),
+-- ('Ксения', 'Антоновна', 'Иваненко', 'ivanenko@mail.ru');
