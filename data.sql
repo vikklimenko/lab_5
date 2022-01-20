@@ -1,1 +1,1 @@
-select * from position
+select * from tbl_1
