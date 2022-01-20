@@ -1,1 +1,1 @@
-select * from role_permission
+select * from tbl_1
